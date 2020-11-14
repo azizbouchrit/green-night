@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cef4de71c84314967ca1bfba28fc560",
+    "revision": "cff6ddce9f58765cef75bd6c9b3c108c",
     "url": "/green-night/index.html"
   },
   {
-    "revision": "395e9fdb201598738e1a",
-    "url": "/green-night/static/css/main.c5ea059b.chunk.css"
+    "revision": "c0333adc0e4f90e9068e",
+    "url": "/green-night/static/css/main.8a3111a7.chunk.css"
   },
   {
     "revision": "2849487c8b775bddcfcc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/green-night/static/js/2.5d417b06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "395e9fdb201598738e1a",
-    "url": "/green-night/static/js/main.ca2d64e7.chunk.js"
+    "revision": "c0333adc0e4f90e9068e",
+    "url": "/green-night/static/js/main.6267c96b.chunk.js"
   },
   {
     "revision": "30ce0abd048a7fbda08d",
