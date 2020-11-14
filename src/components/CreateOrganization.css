@@ -1,0 +1,36 @@
+.form{
+    margin: 1rem 0;
+    padding: 0 1rem;
+    color: #6699cc;
+}
+
+.form-group{
+    margin: 1rem 0;
+    display: grid;
+    align-items: flex-end;
+    grid-template-columns: 30% 70%;
+}
+
+.form-label{
+    display: block;
+    margin-bottom: 0.5rem;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.form-input{
+    padding: 0.5rem;
+    border: 2px solid #6699cc4b;
+    border-radius: 5px;
+    width: 100%;
+outline: none ;
+}
+
+.form-coordinates{
+    display: flex;
+    gap: 1rem;
+}
+
+.form-coordinates label{
+    /* display: block;
+    margin-bottom: 0.5rem; */
+}
