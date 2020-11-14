@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/green-night/precache-manifest.2e80c77bd680763c9ab4808a5244293a.js"
+  "/green-night/precache-manifest.9694fb1e88b127c869f8481f564aff33.js"
 );
 
 self.addEventListener('message', (event) => {
